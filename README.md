@@ -9,9 +9,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://github.com/OmarHannour" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
 
 <br />
 <br />
@@ -25,29 +22,13 @@ Currently, I’m sharpening my skills in **Object-Oriented Programming** and exp
 ## ✏️ Recent Activities
 
 - 🚀 Learning advanced **algorithms & data structures**  
-- 💻 Practicing **problem-solving** on LeetCode  
+- 💻 Practicing **problem-solving and competitive programming**  
 - 📘 Exploring modern **software engineering practices**
-
-<!-- blog_plugin_start -->
-<!-- You can add your blog links here if you have any -->
-<!-- blog_plugin_end -->
-
-<!-- github_plugin_start -->
 
 ## ⛳️ Projects
 
 - Coming soon: Portfolio of my coding projects (JS, C++, Python, C)  
 - Open-source contributions planned for 2025 🚀
-
-<!-- github_plugin_end -->
-
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
-
-<!-- You can integrate WakaTime here if you use it -->
-
-<!-- wakatime_plugin_end -->
 
 ## 📊 GitHub Stats
 
@@ -74,8 +55,4 @@ Currently, I’m sharpening my skills in **Object-Oriented Programming** and exp
 <a href="https://github.com/OmarHannour" alt="https://github.com/OmarHannour"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Omar%20Hannour&color=000000"></a>
 <a href="https://github.com/OmarHannour/OmarHannour/blob/main/LICENSE" alt="LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
-
-<!---
-omarha001cloud/omarha001cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
