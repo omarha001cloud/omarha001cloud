@@ -41,18 +41,16 @@ Currently, I’m sharpening my skills in **Object-Oriented Programming** and exp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHannour&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
-**Languages and Tools:**
+## 🛠️ Languages and Tools
 
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-cpp.svg" height="40" style="vertical-align:down; margin:4px" alt="c++">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-python.svg" height="40" style="vertical-align:down; margin:4px" alt="python">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-c.svg" height="40" style="vertical-align:down; margin:4px" alt="c">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 </p>
 
 ---
 
 <a href="https://github.com/OmarHannour" alt="https://github.com/OmarHannour"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Omar%20Hannour&color=000000"></a>
 <a href="https://github.com/OmarHannour/OmarHannour/blob/main/LICENSE" alt="LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
---->
